@@ -1,0 +1,15 @@
+# name = Jenna
+# class = Script Programming
+# date = 2025-06-12
+
+verb = "sing"
+flower = "wildflowers"
+
+poem = 'In a garden where {flower} play,\n'
+poem += 'The sun dances gently all day.\n'
+poem += 'A soft breeze will {verb},\n'
+poem += 'As the honeybees wing,\n'
+poem += 'And the clouds paint their art on the way.'
+
+print(poem)
+
