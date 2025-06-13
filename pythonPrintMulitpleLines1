@@ -1,0 +1,13 @@
+
+verb = "sing"
+flower = "wildflowers"
+
+poem = f"""
+In a garden where {flower} play,
+The sun dances gently all day.
+A soft breeze will {verb},
+As the honeybees wing,
+And the clouds paint their art on the way.
+"""
+
+print(poem)
