@@ -1,0 +1,9 @@
+
+verb = "sing"
+flower = "wildflowers"
+
+print(f"In a garden where {flower} play,")
+print(f"The sun dances gently all day.")
+print(f"A soft breeze will {verb},")
+print(f"As the honeybees wing,")
+print(f"And the clouds paint their art on the way.")
