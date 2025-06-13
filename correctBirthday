@@ -1,0 +1,18 @@
+# homework 1
+# Jenna Frank
+# 2025-06-12
+
+name = input("What is your name?  > ")
+choice = input("Is it your birthday? Y/N  > ").upper()
+
+if choice == "Y":
+    age = int(input("How old are you?  > "))
+
+    x = 1
+    while x <= age:
+        print(f"Happy birthday {name}!")
+        x += 1
+else:
+    print("Ok, that's fine.")
+
+print("Done.")
